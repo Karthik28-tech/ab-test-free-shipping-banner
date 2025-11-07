@@ -54,3 +54,24 @@ Mobile users respond more positively vs desktop (higher uplift %)
 If validated with full traffic, the feature can be rolled out at 100% with margin monitoring
 
 Follow-up experiments: banner styling, copy variants, cart value threshold logic
+
+🚀 How to Run
+git clone https://github.com/Karthik28-tech/ab-test-free-shipping-banner.git
+cd ab-test-free-shipping-banner
+open ab_test_analysis.ipynb
+
+🏷 Suggested GitHub Topics
+ab-testing
+data-analysis
+product-analytics
+python
+ecommerce
+sql
+statistics
+business-intelligence
+experimentation
+
+📌 Author
+
+Raparthi Karthik
+LinkedIn: linkedin.com/in/raparthi-karthik
